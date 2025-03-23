@@ -252,7 +252,7 @@ import food_enat_agelegel from "../assets/images/food/Combination(በያይነ�
 
 // MEAT ENTREES
 import food_kitfo from "../assets/images/food/MEAT ENTRES(ǹƆ)/Kitfo.jpg";
-import food_bere_wot from "../assets/images/food/MEAT ENTRES(ǹƆ)/bere_wot_new.jpg";
+import food_bere_wot from "../assets/images/food/MEAT ENTRES(ǹƆ)/bere_keyi.jpg";
 import food_bere_alecha from "../assets/images/food/MEAT ENTRES(ǹƆ)/BERE ALECHA(በሬ አልጫ).jpg";
 import food_doro_wot from "../assets/images/food/MEAT ENTRES(ǹƆ)/DORO WOT(ዶሮ ወጥ).jpg";
 import food_yebeg_wot from "../assets/images/food/MEAT ENTRES(ǹƆ)/YEBEG WOT(የበግ ወጥ).jpg";
