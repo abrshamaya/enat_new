@@ -1,9 +1,8 @@
 import { Link } from "react-router-dom";
 import { IMAGES } from "../constent/theme";
 import CommonBanner from "../elements/CommonBanner";
-import { useContext, useRef, useState } from "react";
+import { useRef, useState } from "react";
 import { MenuStyle5Arr } from "../elements/JsonData";
-import { Context } from "../context/AppContext";
 
 const Buttons = [
   { icon: "flaticon-fast-food", title: "ALL" },
